@@ -1,5 +1,5 @@
 print("Calculator:")
-print("Available options:\n")
+print("Available options:")
 print("1.Addition\n2.Subtraction\n3.Multiplication\n4.Division")
 while True:
     c=int(input("Enter your option:"))
